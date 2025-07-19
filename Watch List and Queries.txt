@@ -1,0 +1,109 @@
+List of Watches that were available on Rolex's Website: 
+
+Land-Dweller 40
+Oyster Perpetual 41
+1908
+Air-King
+Cosmograph Daytona
+Datejust 36
+Day-Date 40 
+Rolex Deepsea
+Explorer II 
+GMT-Master II 
+Lady-Datejust 
+Land-Dweller 40
+Yacht-Master 42
+Submariner
+Sky-Dweller 
+Sea-Dweller
+
+-----Sample Queries-----
+
++++++ Watch Features & Specs
+
+
+What are the features of the Rolex Submariner?
+
+Does the Rolex Datejust come with a Jubilee bracelet?
+
+How deep can the Rolex Sea-Dweller go underwater?
+
+What type of movement is used in the Rolex Daytona?
+
+Is there a Rolex with dual time zones?
+
+
+
++++++ User Guide & Functionality
+
+
+How do I set the time on my Rolex GMT-Master II?
+
+What’s the difference between the fluted bezel and smooth bezel?
+
+How do I wind my Rolex manually?
+
+Can I change the bracelet of my Rolex myself?
+
+How do I use the Rolex Sky-Dweller's annual calendar feature?
+
+
+
++++++ Pricing-Based Questions
+
+
+What is the retail price of the Rolex Daytona?
+
+Which is the most affordable Rolex model?
+
+Compare the price of the Submariner and the Yacht-Master.
+
+Is the Day-Date more expensive than the Datejust?
+
+What is the most expensive Rolex listed in the brochure?
+
+
+
++++++ Care & Servicing
+
+
+How often should I service my Rolex?
+
+Can I shower while wearing my Rolex?
+
+What do I do if water gets inside my Rolex?
+
+How do I clean my Rolex properly?
+
+Does Rolex service include bracelet polishing?
+
+
+
++++++ Memory + Follow-up Test Cases
+
+
+Which Rolex has a ceramic bezel?
+
+Tell me more about the watch you just mentioned.
+
+Can I swim with it in saltwater?
+
+What materials is it made of?
+
+Does it have a date function?
+
+
+
++++++ Comparison queries
+
+
+Compare the Submariner and the Sea-Dweller.
+
+Which is better for travel: the Sky-Dweller or the GMT-Master II?
+
+Which Rolex watch is more elegant: the Lady-Datejust or the 1908?
+
+Difference in features of Sky-Dweller and GMT-Master II. 
+
+Tell me difference dial size of Explorer II and Deepsea
+
